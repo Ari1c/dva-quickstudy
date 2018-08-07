@@ -1,7 +1,7 @@
 # dva-quickstudy
 a demo for dva-quickstudy
 
-# instaill 
+# install
 
 ```
 npm i
